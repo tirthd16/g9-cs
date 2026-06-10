@@ -19,4 +19,7 @@ A sports club is offering memberships in four different sports - football, baske
 Create a detailed design of program's working & architecture. This will act as our blueprint when we move to coding stage.
 It can documented using structure chart, flowchart or pseudocode. We will use flowchart as it is most appropriate for this scenario. Structure charts are useful when you have several different systems interacting with one another.
 
+Find the flowchart [here](https://github.com/user-attachments/assets/c3b3852e-6c55-4a9d-9cb9-355998e0d397)
 
+## Coding
+We had coded colloboratively during the school lesson. Find the python file [here](sports.py).
